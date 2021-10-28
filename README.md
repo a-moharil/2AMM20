@@ -2,12 +2,14 @@
 This repository consists of the codes for the project created during the course 2AMM20.
 
   1) BERT_Polysemy-Biomedical.py is the final code of our approach to obtain contextual cluster files.
+  
+  2) BERT_similarity.ipynb contains functions to compute additional results. Produces BERT embeddings which can be used to calculate cosine similarity sentences and variance. 
 
-  2) Result_link.md consists of the Google Drive link where all the obtained results of the experimentations are uploaded.
+  3) Result_link.md consists of the Google Drive link where all the obtained results of the experimentations are uploaded.
 
-  3) MSHCorpus.zip consists of the NLM-WSD Dataset. This Data Needs to be converted into a single text file.
+  4) MSHCorpus.zip consists of the NLM-WSD Dataset. This Data Needs to be converted into a single text file.
 
-  4) NLM_FULL_DATA.zip consists of a single txt file ( NLM_FULL_DATA.txt) created using the above-mentioned MSHCorpus.
+  5) NLM_FULL_DATA.zip consists of a single txt file ( NLM_FULL_DATA.txt) created using the above-mentioned MSHCorpus.
   
 ## BERT_POLYSEMY-BIOMEDICAL.PY
 After running the .py file the user will be presented to input some arguments. We explain these arguments below:-
