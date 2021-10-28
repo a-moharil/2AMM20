@@ -7,7 +7,7 @@ This repository consists of the codes for the project created during the course 
 
   3) MSHCorpus.zip consists of the NLM-WSD Dataset. This Data Needs to be converted into a single text file.
 
-  4) NLM_FULL_DATA.txt consists of a single txt file created using the above MSHCorpus.
+  4) NLM_FULL_DATA.zip consists of a single txt file ( NLM_FULL_DATA.txt) created using the above-mentioned MSHCorpus.
   
 ## BERT_POLYSEMY-BIOMEDICAL.PY
 After running the .py file the user will be presented to input some arguments. We explain these arguments below:-
