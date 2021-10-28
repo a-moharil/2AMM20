@@ -140,8 +140,8 @@ def disambiguate():
     #cluster_num_plot = int(input("Enter the cluster number for which the threshold plot is to be obtained\n"))
     thresh = float(input("Enter the threshold for the context words to be obtained\n"))
 
-
-    directory_input = "elbow"
+    #"A CUSTOM INTPUT CAN BE GIVEN"
+    directory_input = "sil"
 
     clustering_type = "kmeans"
 
