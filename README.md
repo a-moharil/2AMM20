@@ -7,7 +7,7 @@ This repository consists of the codes for the project created during the course 
   
   2) BERT_similarity.ipynb contains functions to compute additional results. Produces BERT embeddings which can be used to calculate cosine similarity sentences and variance. 
 
-  3) fastText **TODO**
+  3) FastText.ipynb contains the code executed to collect results for fastText embeddings.
 
 
 **Data** folder contains all data used to perform the experiment.
@@ -16,8 +16,9 @@ This repository consists of the codes for the project created during the course 
 
   2) NLM_FULL_DATA.zip consists of a single txt file ( NLM_FULL_DATA.txt) created using the above-mentioned MSHCorpus.
 
-Result_link.md consists of the Google Drive link where all the obtained results of the experimentations are uploaded.
-  
+All obtained results of the experimentations are uploaded to a [Google Drive Folder](https://drive.google.com/drive/u/2/folders/1I30CCJ1ZzuXLs5020nWh7DD-YbGFOhcf) which can be accessed publicly through the link.
+
+
 ## BERT_POLYSEMY-BIOMEDICAL.PY
 After running the .py file the user will be presented to input some arguments. We explain these arguments below:-
 1) **"Enter the number of target terms that you wish to disambiguate"** :- The user shall enter the integer terms planned to disambiguate.
